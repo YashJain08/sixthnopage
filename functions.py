@@ -1,4 +1,4 @@
-def square(x):
+def square(2):
     return 2 * 2
 
     for i in range(10):
